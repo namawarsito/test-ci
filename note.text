@@ -1,0 +1,21 @@
+halaman user
+- logo memakai logo SMK batik = Done
+- baground hijau pastel = Done
+- pokok e halaman e tema hijau, kuning lemon = Done
+- fitur tawkto
+- fitur membership (ada dashboard sendiri)
+- ada 1 halaman menampilkan kartu membership (virtual)
+  - desain css output (menampilkan nama - expired sesuai dengan saat dia awal daftar di web)
+  - cetak berupa pdf ( 
+  - di bagian dashborad member / user tertampil (jika user tersebut login)
+- Ganti Tata letak menu awalnya di atas di ganti ke samping : 
+    menu utama
+        kategori produk
+        home
+        shop
+        login admin
+    responsive fitur menu samping (frontEnd)
+- tambah 1 menu ning aplikasi tentang grafik pengunjung ro grafik penjualan (bisanya pengunjung)
+- penambahan diskon produk = nyambung ke laporan
+
+- include dashboard tawkto
